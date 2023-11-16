@@ -1,3 +1,9 @@
+# Elmbridge Road Runners Web-app 
+
+This is the remastered version of the current err.club web-app that is powered by NextJS
+
+## Information for the developer
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
